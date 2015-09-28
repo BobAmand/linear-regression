@@ -1,4 +1,6 @@
 ipython[all]
-matplotlib
+matplotlib.pyplot
 pandas
 numpy
+scikit-learn
+scipy
